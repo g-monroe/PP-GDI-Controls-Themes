@@ -1,0 +1,21 @@
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\bin\Debug\TabSelector - Sarrow - Example Project.exe.config
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\bin\Debug\TabSelector - Sarrow - Example Project.exe
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\bin\Debug\TabSelector - Sarrow - Example Project.pdb
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\bin\Debug\TabSelector - Sarrow - Example Project.xml
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector___Sarrow___Example_Project.Form1.resources
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector___Sarrow___Example_Project.Resources.resources
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector - Sarrow - Example Project.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector - Sarrow - Example Project.exe
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector - Sarrow - Example Project.xml
+c:\users\kevin\documents\visual studio 2013\Projects\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector - Sarrow - Example Project.pdb
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\bin\Debug\TabSelector - Sarrow - Example Project.exe.config
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector - Sarrow - Example Project.exe
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector - Sarrow - Example Project.xml
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector - Sarrow - Example Project.pdb
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\bin\Debug\TabSelector - Sarrow - Example Project.exe
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\bin\Debug\TabSelector - Sarrow - Example Project.pdb
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\bin\Debug\TabSelector - Sarrow - Example Project.xml
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector - Sarrow - Example Project.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector___Sarrow___Example_Project.Form1.resources
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector___Sarrow___Example_Project.Resources.resources
+C:\Users\Kevin\Desktop\Sarrow Tabselector\TabSelector - Sarrow - Example Project\TabSelector - Sarrow - Example Project\obj\Debug\TabSelector - Sarrow - Example Project.vbproj.GenerateResource.Cache
